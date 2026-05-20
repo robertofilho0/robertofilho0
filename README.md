@@ -1,53 +1,55 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=180&section=header&text=Roberto%20Filho&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Back-End%20Developer&descAlignY=60&descSize=16&descColor=D8B4FE"/>
 
-# roberto filho
-### back-end developer · ADS @ IFPB
-
-open to opportunities · brazil · remote
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=B57BEE&center=true&vCenter=true&width=600&lines=ADS+%40+IFPB+%F0%9F%8E%93;Back-End+%7C+APIs+%7C+Infrastructure+%7C+Mobile;NestJS+%7C+Laravel+%7C+Django+%7C+Flutter;Always+learning%2C+always+shipping." />
+</p>
 
 ---
 
+## about
+
+```ts
+const roberto = {
+  education:  "ADS @ IFPB",
+  focus:      ["Back-End", "REST APIs", "Infrastructure", "Mobile"],
+  languages:  ["TypeScript", "JavaScript", "PHP", "Python", "Dart", "SQL"],
+  frameworks: ["NestJS", "Laravel", "Django", "Flutter"],
+  databases:  ["PostgreSQL", "MySQL", "SQL Server", "Redis"],
+  infra:      ["Docker", "Kubernetes", "AWS", "Linux"],
+  tools:      ["Git", "Postman", "Swagger", "RabbitMQ", "Figma"],
+};
+```
+
+---
+
+## stack
+
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,dart,nodejs,nestjs,laravel,django,flutter,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,git,postman,figma&theme=dark&perline=7" />
+</div>
+
+---
 
 ## stats
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RobertoTheDev&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=dark&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoTheDev&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=dark&text_color=ffffff&bg_color=0d1117" />
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RobertoTheDev&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical&icon_color=7E3ACE&text_color=FFFFFF&bg_color=0D1117&border_color=7E3ACE" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoTheDev&layout=compact&langs_count=7&hide_title=true&hide_border=true&theme=radical&text_color=FFFFFF&bg_color=0D1117" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertoTheDev&theme=radical&background=0D1117&border=7E3ACE&ring=7E3ACE&fire=B57BEE&currStreakLabel=7E3ACE&sideLabels=FFFFFF&dates=94A3B8" />
 </div>
 
 ---
 
-<div align="center">
+## contact
 
-## techs
+<p align="center">
+  <a href="https://www.linkedin.com/in/roberto-filho-393b372b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7E3ACE?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RobertoTheDev&style=for-the-badge&color=7E3ACE&label=VIEWS" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=ts,js,php,python,dart,nodejs,nestjs,laravel,django,flutter,postgres,mysql,redis,docker,kubernetes,aws,linux,git,github,figma,postman&theme=dark&perline=11" />
-
-</div>
-
----
-
-<div align="center">
-
-## contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobertoTheDev/RobertoTheDev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobertoTheDev/RobertoTheDev/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/RobertoTheDev/RobertoTheDev/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/roberto-filho-393b372b2/)
-&nbsp;
-![views](https://komarev.com/ghpvc/?username=RobertoTheDev&style=flat-square&color=555&label=views)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=120&section=footer&animation=fadeIn"/>
