@@ -1,0 +1,12 @@
+{
+  "title": "Language Stack",
+  "_comment": "Auto-avaliação 0-100. Ajuste os valores e rode: python scripts/gen_assets.py",
+  "axes": [
+    { "label": "TypeScript", "value": 85 },
+    { "label": "PHP", "value": 80 },
+    { "label": "Python", "value": 75 },
+    { "label": "Dart", "value": 70 },
+    { "label": "SQL", "value": 80 },
+    { "label": "JavaScript", "value": 85 }
+  ]
+}

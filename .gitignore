@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+# foto original: o banner usa só o pontilhado, a foto não precisa ir pro repositório
+assets/source/

@@ -1,55 +1,138 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=180&section=header&text=Roberto%20Filho&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Back-End%20Developer&descAlignY=60&descSize=16&descColor=D8B4FE"/>
+<div align="center">
+
+<a href="https://github.com/robertofilho0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-dark.svg" width="960" alt="Perfil de Roberto Filho, Back-End Developer">
+  </picture>
+</a>
+
+<br>
+
+<a href="https://github.com/robertofilho0">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=B57BEE&center=true&vCenter=true&width=900&lines=ADS+%40+IFPB+%F0%9F%8E%93;Back-End+%7C+APIs+%7C+Infrastructure+%7C+Mobile;NestJS+%7C+Laravel+%7C+Django+%7C+Flutter;Always+learning%2C+always+shipping." alt="Typing SVG">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=robertofilho0&style=flat&color=7E3ACE&labelColor=0D0D0D&label=profile+views" alt="profile views">
+
+</div>
+
+---
+
+## `$ whoami`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=B57BEE&center=true&vCenter=true&width=600&lines=ADS+%40+IFPB+%F0%9F%8E%93;Back-End+%7C+APIs+%7C+Infrastructure+%7C+Mobile;NestJS+%7C+Laravel+%7C+Django+%7C+Flutter;Always+learning%2C+always+shipping." />
+  <img src="assets/whoami-card.svg" width="960" alt="Terminal com o perfil de Roberto Filho, Back-End Developer">
 </p>
 
----
-
-## about
-
-```ts
-const roberto = {
-  education:  "ADS @ IFPB",
-  focus:      ["Back-End", "REST APIs", "Infrastructure", "Mobile"],
-  languages:  ["TypeScript", "JavaScript", "PHP", "Python", "Dart", "SQL"],
-  frameworks: ["NestJS", "Laravel", "Django", "Flutter"],
-  databases:  ["PostgreSQL", "MySQL", "SQL Server", "Redis"],
-  infra:      ["Docker", "Kubernetes", "AWS", "Linux"],
-  tools:      ["Git", "Postman", "Swagger", "RabbitMQ", "Figma"],
-};
-```
-
----
-
-## stack
+<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,dart,nodejs,nestjs,laravel,django,flutter,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,git,postman,figma&theme=dark&perline=7" />
+
+## `$ cat tech-stack.yaml`
+
+<table border="1" cellpadding="14" bgcolor="#0d0d12">
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>robertofilho0:~$ cat tech-stack.yaml</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ✦ languages:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=ts,js,php,python,dart&theme=dark" alt="TypeScript, JavaScript, PHP, Python e Dart"><br>
+        <sub><code>TypeScript · JavaScript · PHP · Python · Dart · SQL</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ ⚙ frameworks_runtimes:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,django,flutter&theme=dark" alt="Node.js, NestJS, Laravel, Django e Flutter"><br>
+        <sub><code>Node.js · NestJS · Laravel · Django · Flutter</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ▣ databases:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL e Redis"><br>
+        <sub><code>PostgreSQL · MySQL · SQL Server · Redis</code></sub>
+      </td>
+      <td valign="top"><code>├─ ☁ infra_cloud:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux&theme=dark" alt="Docker, Kubernetes, AWS e Linux"><br>
+        <sub><code>Docker · Kubernetes · AWS · Linux</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ⇄ apis_messaging:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postman,rabbitmq&theme=dark" alt="Postman e RabbitMQ"><br>
+        <sub><code>Postman · Swagger · RabbitMQ</code></sub>
+      </td>
+      <td valign="top"><code>╰─ ⌁ version_design:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=git,figma&theme=dark" alt="Git e Figma"><br>
+        <sub><code>Git · Figma</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;environment: production</code></td>
+    </tr>
+  </tfoot>
+</table>
+
 </div>
 
 ---
 
-## stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RobertoTheDev&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical&icon_color=7E3ACE&text_color=FFFFFF&bg_color=0D1117&border_color=7E3ACE" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoTheDev&layout=compact&langs_count=7&hide_title=true&hide_border=true&theme=radical&text_color=FFFFFF&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertoTheDev&theme=radical&background=0D1117&border=7E3ACE&ring=7E3ACE&fire=B57BEE&currStreakLabel=7E3ACE&sideLabels=FFFFFF&dates=94A3B8" />
-</div>
-
----
-
-## contact
+## `$ kubectl get signals --all-namespaces`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roberto-filho-393b372b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7E3ACE?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=RobertoTheDev&style=for-the-badge&color=7E3ACE&label=VIEWS" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-dark.svg" width="390" alt="Radar de habilidades Back-End">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+    <img src="assets/radar-langs-dark.svg" width="370" alt="Radar de linguagens">
+  </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=120&section=footer&animation=fadeIn"/>
+<p align="center"><sub><code>signals: backend_skill_radar · language_stack_radar · status: healthy</code></sub></p>
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=robertofilho0&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical&icon_color=7E3ACE&text_color=FFFFFF&bg_color=0D1117" alt="GitHub stats">
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertofilho0&layout=compact&langs_count=7&hide_title=true&hide_border=true&theme=radical&text_color=FFFFFF&bg_color=0D1117" alt="Top languages">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=robertofilho0&theme=radical&background=0D1117&border=7E3ACE&ring=7E3ACE&fire=B57BEE&currStreakLabel=B57BEE&sideLabels=FFFFFF&dates=94A3B8" alt="Streak stats">
+
+</div>
+
+---
+
+## `$ connect --socials`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/roberto-filho-393b372b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-7E3ACE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/robertofilho0">
+  <img src="https://img.shields.io/badge/GitHub-B57BEE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Feito com 💜 e muito café · @robertofilho0</sub>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:2a1250,100:0D0D0D&height=120&section=footer&animation=fadeIn">

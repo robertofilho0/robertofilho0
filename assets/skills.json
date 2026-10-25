@@ -1,0 +1,12 @@
+{
+  "title": "Back-End Skill Radar",
+  "_comment": "Auto-avaliação 0-100. Ajuste os valores e rode: python scripts/gen_assets.py",
+  "axes": [
+    { "label": "Back-End & APIs", "value": 85 },
+    { "label": "Bancos de Dados", "value": 80 },
+    { "label": "Docker & Kubernetes", "value": 70 },
+    { "label": "Cloud (AWS)", "value": 65 },
+    { "label": "Mobile (Flutter)", "value": 70 },
+    { "label": "Mensageria & Filas", "value": 65 }
+  ]
+}
