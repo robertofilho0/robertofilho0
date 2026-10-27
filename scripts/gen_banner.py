@@ -79,9 +79,10 @@ YAML_ROWS = [
     (1, "focus", "Back-End · REST APIs · Infra · Mobile"),
     (0, "stack", ""),
     (1, "languages", "TypeScript · JavaScript · PHP · Python · Dart"),
-    (1, "frameworks", "NestJS · Laravel · Django · Flutter"),
-    (1, "databases", "PostgreSQL · MySQL · SQL Server · Redis"),
-    (1, "infra", "Docker · Kubernetes · AWS · Linux"),
+    (1, "frameworks", "Node.js · Fastify · NestJS · Laravel · Django"),
+    (1, "front_mobile", "Vue.js · Flutter"),
+    (1, "databases", "Postgres · MySQL · MongoDB · SQL Server · Redis"),
+    (1, "infra", "Docker · Docker Swarm · Kubernetes · AWS · Linux"),
     (1, "tools", "Git · Postman · Swagger · RabbitMQ · Figma"),
     (0, "contact", ""),
     (1, "linkedin", "/in/roberto-filho-393b372b2"),
@@ -305,8 +306,8 @@ def build(name: str, theme: dict) -> str:
     intro_total = intro_end + 0.5
     dots_hex = "#%02x%02x%02x" % t["dots"]
 
-    fs, cw, step = 16, 9.7, 27
-    x_num, x_txt, y0 = 497, 535, 152
+    fs, cw, step = 16, 9.7, 26          # 16 linhas cabem no painel
+    x_num, x_txt, y0 = 497, 535, 150
     p = []
     p.append(f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" '
              f'width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="title desc">')

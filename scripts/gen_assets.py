@@ -110,10 +110,10 @@ def whoami_svg() -> str:
         f"{escape(text)}</text>"
     )
     rows = [
-        ("back-end/", "NestJS · Laravel · Django"),
-        ("mobile/", "Flutter · Dart"),
-        ("infra/", "Docker · Kubernetes · AWS · Linux"),
-        ("data/", "PostgreSQL · MySQL · SQL Server · Redis"),
+        ("back-end/", "Fastify · NestJS · Laravel · Django"),
+        ("web/mobile/", "Vue.js · Flutter · Dart"),
+        ("infra/", "Docker · Swarm · Kubernetes · AWS · Linux"),
+        ("data/", "Postgres · MySQL · MongoDB · Redis"),
     ]
     parts = [
         '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" width="960" height="440" '

@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://github.com/robertofilho0">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=B57BEE&center=true&vCenter=true&width=900&lines=ADS+%40+IFPB+%F0%9F%8E%93;Back-End+%7C+APIs+%7C+Infrastructure+%7C+Mobile;NestJS+%7C+Laravel+%7C+Django+%7C+Flutter;Always+learning%2C+always+shipping." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=B57BEE&center=true&vCenter=true&width=900&lines=ADS+%40+IFPB+%F0%9F%8E%93;Back-End+%7C+APIs+%7C+Infrastructure+%7C+Mobile;Fastify+%7C+NestJS+%7C+Laravel+%7C+Django+%7C+Vue+%7C+Flutter;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;Always+learning%2C+always+shipping." alt="Typing SVG">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=robertofilho0&style=flat&color=7E3ACE&labelColor=0D0D0D&label=profile+views" alt="profile views">
@@ -41,32 +41,36 @@
   <tbody>
     <tr>
       <td width="50%" valign="top"><code>├─ ✦ languages:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=ts,js,php,python,dart&theme=dark" alt="TypeScript, JavaScript, PHP, Python e Dart"><br>
+        <img src="https://skillicons.dev/icons?i=ts,js,php,py,dart&theme=dark" alt="TypeScript, JavaScript, PHP, Python e Dart"><br>
         <sub><code>TypeScript · JavaScript · PHP · Python · Dart · SQL</code></sub>
       </td>
-      <td width="50%" valign="top"><code>├─ ⚙ frameworks_runtimes:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,django,flutter&theme=dark" alt="Node.js, NestJS, Laravel, Django e Flutter"><br>
-        <sub><code>Node.js · NestJS · Laravel · Django · Flutter</code></sub>
+      <td width="50%" valign="top"><code>├─ ⚙ backend_frameworks:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js">&nbsp;
+        <img src="assets/icon-fastify.svg" height="48" alt="Fastify">&nbsp;
+        <img src="https://skillicons.dev/icons?i=nestjs,laravel,django&theme=dark" alt="NestJS, Laravel e Django"><br>
+        <sub><code>Node.js · Fastify · NestJS · Laravel · Django</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ ▣ databases:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL e Redis"><br>
-        <sub><code>PostgreSQL · MySQL · SQL Server · Redis</code></sub>
+      <td valign="top"><code>├─ ◈ front_mobile:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=vue,flutter&theme=dark" alt="Vue.js e Flutter"><br>
+        <sub><code>Vue.js · Flutter</code></sub>
       </td>
+      <td valign="top"><code>├─ ▣ databases:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="PostgreSQL, MySQL, MongoDB e Redis"><br>
+        <sub><code>PostgreSQL · MySQL · MongoDB · SQL Server · Redis</code></sub>
+      </td>
+    </tr>
+    <tr>
       <td valign="top"><code>├─ ☁ infra_cloud:</code><br><br>
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux&theme=dark" alt="Docker, Kubernetes, AWS e Linux"><br>
-        <sub><code>Docker · Kubernetes · AWS · Linux</code></sub>
+        <sub><code>Docker · Docker Swarm · Kubernetes · AWS · Linux</code></sub>
       </td>
-    </tr>
-    <tr>
-      <td valign="top"><code>├─ ⇄ apis_messaging:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=postman,rabbitmq&theme=dark" alt="Postman e RabbitMQ"><br>
-        <sub><code>Postman · Swagger · RabbitMQ</code></sub>
-      </td>
-      <td valign="top"><code>╰─ ⌁ version_design:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=git,figma&theme=dark" alt="Git e Figma"><br>
-        <sub><code>Git · Figma</code></sub>
+      <td valign="top"><code>╰─ ⌁ tools_apis:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=git,postman&theme=dark" alt="Git e Postman">&nbsp;
+        <img src="assets/icon-swagger.svg" height="48" alt="Swagger">&nbsp;
+        <img src="https://skillicons.dev/icons?i=rabbitmq,figma&theme=dark" alt="RabbitMQ e Figma"><br>
+        <sub><code>Git · Postman · Swagger · RabbitMQ · Figma</code></sub>
       </td>
     </tr>
   </tbody>
