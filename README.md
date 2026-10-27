@@ -132,7 +132,7 @@
 <br>
 
 <div align="center">
-<sub>Feito com 💜 e muito café · @robertofilho0</sub>
+<sub>· @robertofilho0</sub>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:2a1250,100:0D0D0D&height=120&section=footer&animation=fadeIn">
